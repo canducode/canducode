@@ -3,6 +3,11 @@
 - I have experience in some programming language as php, bash, python, java, mql4 or mql5, and else
 - Today, I am only focus for kotlin especially android developer and multiplatform
 
+My Portofolio
+https://www.ngoopy.com/u/canducode
+https://www.codewars.com/users/canducode
+https://www.dicoding.com/users/canducode
+
 <!--
 **canducode/canducode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
