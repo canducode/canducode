@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - Today, I am only focus for kotlin especially android developer and multiplatform
+- 💬 Ask me about anything [here](https://github.com/canducode/canducode/issues)
 
 **Programing Languages Experience:**
 
