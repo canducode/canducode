@@ -16,8 +16,7 @@
 <code><img height="20" src="https://c.mql4.com/i/mql4_logos.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-```
-```
+
 **I've been using what `some support tools` are :**
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/256px-Android_Studio_Trademark.svg.png"></code>
