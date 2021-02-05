@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🙊 I speak Bahasa and English, and also Javanese
 - 💬 Ask me about anything [here](https://github.com/canducode/canducode/issues)
 
 ```
