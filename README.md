@@ -17,7 +17,7 @@ and now i am so fleksble to learn new programming language because the basic it 
 
 then now i'm just focus to Mobile Develop,
 
-**Languages and Tools:**
+**Programing Languages Experience:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
