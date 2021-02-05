@@ -3,20 +3,6 @@
 - I have experience in some programming language as php, bash, python, java, mql4 or mql5, and else
 - Today, I am only focus for kotlin especially android developer and multiplatform
 
-Visual Basic - 2010
-HTML/CSS/Javascript 2012
-C++ 2013
-PHP/SQL 2013
-Bash 2014
-Java 2014
-MQL4 2016
-MQL5 2020
-Kotlin 2020
-Dart 2021
-and now i am so fleksble to learn new programming language because the basic it same but the problem it's time
-
-then now i'm just focus to Mobile Develop,
-
 **Programing Languages Experience:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png"></code>
