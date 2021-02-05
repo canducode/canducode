@@ -33,7 +33,7 @@ then now i'm just focus to Mobile Develop,
 ```
 THIS IS TEST
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canducode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canducode&layout=compact)](https://github.com/canducode)
 [![My Stat](https://github-readme-stats.vercel.app/api?username=canducode)](https://github.com/canducode/)
 
 <!--
