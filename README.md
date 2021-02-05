@@ -19,7 +19,7 @@
 
 **I've been using what `some support tools` are :**
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/256px-Android_Studio_Trademark.svg.png"></code>
+[<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Android_Studio_Trademark.svg/256px-Android_Studio_Trademark.svg.png"></code>](https://developer.android.com/studio)
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/64px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/64px-Figma-logo.svg.png"></code>
 [<code><img height="20" src="https://lh3.googleusercontent.com/-arbj6BdJBqg/XSyXBCI-XZI/AAAAAAADCVY/TKZUj5MehKEnQoge1Ms_cqAKMMxenHaAACMYCGAYYCw/s400/drawlogo128.png"></code>](https://github.com/canducode/canducode/issues)
