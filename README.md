@@ -3,6 +3,7 @@
 - 💬 Ask me about anything [here](https://github.com/canducode/canducode/issues)
 
 ```
+💬 Ask me about anything [here](https://github.com/canducode/canducode/issues)
 ```
 **Programming `Languages` Experience**
 
