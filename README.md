@@ -1,7 +1,7 @@
 ### Hi there 👋
 💭 Ask me about anything [here](https://github.com/canducode/canducode/issues)
 
-My first code is, when i'm in 12 years old, it's a programs "sistem pakar" build by visual basic
+My first code was, when i'm in 12 years old, it's a programs "sistem pakar" build by visual basic
 My three blog is http://go-excom.blogspot.com/, i know it's an old blog and a bad design so content too, but i felt memorize when i saw it, but i had lost access to it
 
 ```
