@@ -1,8 +1,8 @@
 ### Hi there 👋
-
 💭 Ask me about anything [here](https://github.com/canducode/canducode/issues)
-My first code was when i'm in 12 years old, it's build by visual basic
-and I forgeted of my first blog, My second blog is http://go-excom.blogspot.com/ but i have lost access to it
+
+My first code is, when i'm in 12 years old, it's a programs "sistem pakar" build by visual basic
+My three blog is http://go-excom.blogspot.com/, i know it's an old blog and a bad design so content too, but i felt memorize when i saw it's, but i have lost access to it
 
 ```
 ```
