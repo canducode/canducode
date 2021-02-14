@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 💭 Ask me about anything [here](https://github.com/canducode/canducode/issues)
+My first code was when i'm in 12 years old, it's build by visual basic
+and I forgeted of my first blog, My second blog is http://go-excom.blogspot.com/ but i have lost access to it
 
 ```
 ```
